@@ -123,6 +123,7 @@
   + [Spring数据访问-JDBC](框架/Spring/Spring数据访问-JDBC.md)
   + [Spring数据访问-MyBatis](框架/Spring/Spring数据访问-MyBatis.md)
   + [SpringMVC](框架/Spring/SpringMVC.md)
+  + [SpringMVC数据传递](框架/Spring/SpringMVC数据传递.md)
   
 
 ## ✏️算法
