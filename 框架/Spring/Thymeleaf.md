@@ -18,7 +18,7 @@
 
 模板引擎工作原理：
 
-<img src="img/Thymeleaf1.png" style="zoom: 150%;" />
+![](img/Thymeleaf1.png)
 
 ### 2、Thymeleaf简介
 
@@ -29,7 +29,7 @@
 + 唯一的前后端通用模板引擎，静态html嵌入标签属性，浏览器可以直接打开模板文件，便于前后端联调。
 + spring官方推荐。
 
-<img src="img/Thymeleaf2.png" style="zoom:150%;" />
+![](img/Thymeleaf2.png)
 
 模板引擎工作原理大都比较类似，都是通过一个基于模板引擎语法的模板文 件，把需要显示的模型数据和前端页面进行分离，使其更容易分开维护，体现了"前后分离"的思想。
 
@@ -148,7 +148,7 @@ public ViewResolver viewResolver(ITemplateEngine templateEngine) {
 
   ​			成功后就有提示了
 
-<img src="img/Thymeleaf3.png" style="zoom: 150%;" />
+![](img/Thymeleaf3.png)
 
 ## 三、HelloWorld
 
